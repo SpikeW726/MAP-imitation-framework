@@ -46,6 +46,8 @@ Weights & Biases is optional for a normal run when `track_wandb: false`, but is 
 wandb login
 ```
 
+Most trained checkpoints and evaluation results are available in the [M2Bench dataset on Hugging Face](https://huggingface.co/datasets/SpikeW726/M2Bench/tree/main).
+
 ## Quick Start
 
 Run commands from the repository root. Existing YAML files under `configs/` are complete experiment specifications.

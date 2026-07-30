@@ -46,6 +46,8 @@ python -c "import torch, gymnasium, pettingzoo, wandb; print(torch.__version__, 
 wandb login
 ```
 
+训练权重和评估结果已上传至 [Hugging Face 上的 M2Bench 数据集](https://huggingface.co/datasets/SpikeW726/M2Bench/tree/main)。
+
 ## 快速开始
 
 以下命令均应在项目根目录执行。`configs/` 中的 YAML 文件是完整的实验定义。
